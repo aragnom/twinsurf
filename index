@@ -1,1 +1,11 @@
-<p>Bonjour ceci est un message de test</p>
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Bonjour les githuber</title>
+    </head>
+
+    <body>
+    	<p>Y'a de la bonne houle ça tente quelqu'un d'aller prendre les rouleaux ?</p>
+    </body>
+</html>
